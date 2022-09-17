@@ -1,0 +1,18 @@
+.home{
+    font-family:'Courier New', Courier, monospace;
+
+    .welcomeHeader {
+        animation: fadeIn 1s ease-in both;
+        color: red;
+    }
+
+    .welcomeText {
+        animation: fadeIn 1s ease-in both;
+        color: blue;
+    }
+}
+
+.test{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
